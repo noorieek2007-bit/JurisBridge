@@ -686,7 +686,7 @@ This project is open source and available under the [MIT License](LICENSE).
 **Harnoor Kaur**
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-noorieek2007-181717?style=for-the-badge&logo=github)](https://github.com/noorieek2007)
+[![GitHub](https://img.shields.io/badge/GitHub-noorieek2007-181717?style=for-the-badge&logo=github)](https://github.com/noorieek2007-bit)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harnoor-kaur-40a0b6392/)
 
 </div>
